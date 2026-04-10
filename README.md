@@ -4,7 +4,7 @@
 
 Project ini bertujuan untuk melakukan analisis data transaksi e-commerce serta membangun model forecasting untuk memprediksi jumlah transaksi di masa depan. Analisis dilakukan untuk membantu bisnis dalam memahami pola penjualan dan menyusun strategi yang lebih efektif.
 
-## 📂 Dataset
+## Dataset
 
 Dataset terdiri dari beberapa file transaksi bulanan yang kemudian digabungkan menjadi satu dataset.
 
